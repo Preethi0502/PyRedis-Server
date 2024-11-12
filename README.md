@@ -1,9 +1,5 @@
 # PyRedis
 
-This is my Python solution to the ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
-
-**Note**: Head over to [codecrafters.io](https://codecrafters.io) to signup for early access.
-
 ## Usage
 
 1. Ensure you have `python (3.7)` or higher installed locally
